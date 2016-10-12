@@ -26,8 +26,8 @@
 	}
 	
 	$logText = '';
-	$linkAccept = 'www.ifsr.de/kpp/php/accept.php?';
-	$linkDecline = 'www.ifsr.de/kpp/php/decline.php?';
+	$linkAccept = 'https://www.ifsr.de/kpp/php/accept.php?';
+	$linkDecline = 'https://www.ifsr.de/kpp/php/decline.php?';
 	
 	if($_POST['email']==""){
 		$mail = "";
@@ -59,9 +59,9 @@
 			mkdir('unverified/');
 		file_put_contents('./unverified/'.$fileName, $head.$input);
 		
-		$linkAccept = $linkAccept.'file'.$courseNr.'='.$fileName.'&'.
-			'dir'.$courseNr.'='.trim($_POST['course'.$courseNr.'select']).'&';
-		$linkDecline = $linkDecline.'file'.$courseNr.'='.$fileName.'&';
+		$linkAccept = $linkAccept.'file'.$courseNr.'='.urlencode($fileName).'&'.
+			'dir'.$courseNr.'='.urlencode(trim($_POST['course'.$courseNr.'select'])).'&';
+		$linkDecline = $linkDecline.'file'.$courseNr.'='.urlencode($fileName).'&';
 		
 		$logText = $logText.$input;
 	}
@@ -90,9 +90,9 @@
 	$head.$logText.
 	$mail.
 	"\n\nFolgender Link bestätigt das Protokoll und macht es öffentlich zugänglich:\n".
-	urlencode($linkAccept).
+	$linkAccept.
 	"\n\nSollte das Protokoll nicht den Anfoderungen entsprechen, kann es mit dem folgenden Link gelöscht werden:\n".
-	urlencode($linkDecline).
+	$linkDecline.
 	"\n\nMit freundlichen Größen,\nProtokollBot",
 	$header);
 	

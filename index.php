@@ -1,6 +1,6 @@
 <?php
 	$lang = 'de';
-	if ($_GET['lang'])
+	if (isset($_GET['lang']))
 		$lang = $_GET['lang'];
 
 	$dict = array();	
@@ -90,7 +90,7 @@
 						?>
 					</p>
 				</div>
-				<div class="box" style="height:60px">
+				<div class="box">
 					<div class="item">
 						<div class="firstItem">
 							<label>
@@ -110,11 +110,11 @@
 							</label>
 						</div>
 						<div class="secondItem">
-							<select id="semesterselect" name="semesterselect" style="width:50px">
+							<select id="semesterselect" name="semesterselect" style="width:15%">
 								<option value="SS">SS</option>
 								<option value="WS">WS</option>
 							</select>
-							<input style="width:418px" type="text" id="year" name="year" value="2000" pattern="(?:19|20)[0-9]{2}" required/>
+							<input style="width: 80%;" type="text" id="year" name="year" value="2000" pattern="(?:19|20)[0-9]{2}" required/>
 						</div>
 					</div>
 				</div>
