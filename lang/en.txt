@@ -1,0 +1,16 @@
+title			=	Formular for entering protocolls of exams
+headline		=	Protocoll of Exam
+module			=	Module
+genInfo			=	General information
+mainExa			=	Main examinant
+semAndYear		=	Semester and year
+courses			=	Courses
+examinant		=	Examinant
+summary			=	Summary
+courseDesc		=	Please check the checkboxes according to the number of courses that were examined.
+contact			=	Contact information
+email			=	Email adress
+emailDesc		=	The entering of the email adress is voluntary and is used for further inquiry. It is not saved or exposed to a third party.
+incompleteError	=	Please fill in all fields!
+thankYou		=	Thank You!
+protocolSuccess	=	Your protokoll is being evaluated and is uploaded as soon as possible.

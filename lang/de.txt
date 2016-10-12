@@ -1,0 +1,16 @@
+title			=	Formular zum Eintragen von Prüfungsprotokollen
+headline		=	Komplexprüfungsprotokolle
+module			=	Modul
+genInfo			=	Allgemeine Informationen
+mainExa			=	Hauptprüfer
+semAndYear		=	Semester und Jahr
+courses			=	Lehrveranstaltungen
+examinant		=	Prüfer
+summary			=	Inhalt und Eindruck
+courseDesc		=	Bitte die Checkboxen ankreuzen anhänngig von der Anzahl der Veranstaltungen, welche geprüft wurden.
+contact			=	Kontaktinformationen
+email			=	Email-Adresse
+emailDesc		=	Die Angabe einer Email-Adresse ist freiwillig und dient nur für Rückfragen. Sie wird nicht gespeichert oder an Dritte weitergegeben.
+incompleteError	=	Bitte alle Felder ausfüllen!
+thankYou		=	Vielen Dank!
+protocolSuccess	=	Dein Protokoll wird geprüft und so schnell wie möglich hochgeladen.

@@ -1,0 +1,88 @@
+ShortIdentifier; Name
+INF-B-110; INF-B-110 Einführung in die Mathematik Informatiker
+INF-B-120; INF-B-120 Mathematische Methoden für Informatiker
+INF-B-210; INF-B-210 Algorithmen und Datenstrukturen
+INF-B-230; INF-B-230 Einführungspraktikum
+INF-B-240; INF-B-240 Programmierung
+INF-B-260; INF-B-260 Informations- und Kodierungstheorie
+INF-B-270; INF-B-270 Formale Systeme
+INF-B-290; INF-B-290 Theoretische Informatik und Logik
+INF-B-310; INF-B-310 Softwaretechnologie
+INF-B-320; INF-B-320 Softwaretechnologie-Projekt
+INF-B-330; INF-B-330 Rechnerarchitektur
+INF-B-370; INF-B-370 Datenbanken und Rechnernetze
+INF-B-380; INF-B-380 Betriebssysteme und Sicherheit
+INF-B-390; INF-B-390 Technische Grundlagen und Hardwarepraktikum
+INF-B-3A0; INF-B-3A0 Systemorientierte Informatik / Hardware Software-Codesign
+INF-B-3B0; INF-B-3B0 Intelligente Systeme
+INF-B-410; INF-B-410 Einführung in die Medieninformatik
+INF-B-420; INF-B-420 Einführung in die Computergraphik
+INF-B-440; INF-B-440 Grundlagen der Gestaltung
+INF-B-450; INF-B-450 Einführung in die Mediengestaltung
+INF-B-460; INF-B-460 Medien und Medienströme
+INF-B-470; INF-B-470 Medienpsychologie und -didaktik
+INF-B-480; INF-B-480 Web- und MultimediaEngineering
+INF-B-490; INF-B-490 Komplexpraktikum
+INF-B-510; INF-B-510 Vertiefung (Informatik)
+INF-B-520; INF-B-520 Vertiefung zur Bachelor-Arbeit (Informatik)
+INF-B-530; INF-B-530 Vertiefung (Medieninformatik)
+INF-B-540; INF-B-540 Vertiefung zur Bachelor-Arbeit (Medieninformatik)
+INF-D-110; INF-D-110 Einführung in die Mathematik für Informatiker
+INF-D-120; INF-D-120 Mathematische Methoden für Informatiker
+INF-D-210; INF-D-210 Algorithmen und Datenstrukturen
+INF-D-220; INF-D-220 Einführungs- und Programmierpraktikum
+INF-D-230; INF-D-230 Programmierung
+INF-D-240; INF-D-240 Softwaretechnologie
+INF-D-270; INF-D-270 Datenbanken und Rechnernetze
+INF-D-310; INF-D-310 Informations- und Kodierungstheorie
+INF-D-330; INF-D-330 Theoretische Informatik und Logik
+INF-D-340; INF-D-340 Intelligente Systeme
+INF-D-420; INF-D-420 Technische Grundlagen und Hardwarepraktikum
+INF-D-430; INF-D-430 Systemorientierte Informatik / Hardware-Software-Codesign
+INF-D-510; INF-D-510 Grundlagen des Nebenfachs
+INF-D-520; INF-D-520 Allgemeine Basisqualifikationen      
+INF-D-910; INF-D-910 Forschungslinie
+INF-D-920; INF-D-920 Vertiefung im Nebenfach
+INF-BAS1; INF-BAS1 Angewandte Informatik
+INF-BAS2; INF-BAS2 Künstliche Intelligenz
+INF-BAS3; INF-BAS3 Software- und Web-Engineering
+INF-BAS4; INF-BAS4 Systemarchitektur
+INF-BAS5; INF-BAS5 Technische Informatik
+INF-BAS6; INF-BAS6 Theoretische Informatik
+INF-BAS7; INF-BAS7 Graphische Datenverarbeitung
+INF-BAS8; INF-BAS8 Anwendungsfach
+INF-VERT1; INF-VERT1 Angewandte Informatik
+INF-VERT2; INF-VERT2 Künstliche Intelligenz
+INF-VERT3; INF-VERT3 Software- und Web-Engineering
+INF-VERT4; INF-VERT4 Systemarchitektur
+INF-VERT5; INF-VERT5 Technische Informatik
+INF-VERT6; INF-VERT6 Theoretische Informatik
+INF-VERT7; INF-VERT7 Graphische Datenverarbeitung
+INF-PM-FOR; INF-PM-FOR Grundlagenforschung
+INF-PM-FPG; INF-PM-FPG Forschungsprojekt Grundlagen
+INF-PM-ANW; INF-PM-ANW Anwendungsforschung
+INF-PM-FPA; INF-PM-FPA Forschungsprojekt Anwendung
+INF-MA-PR; INF-MA-PR Masterpraktikum
+INF-D-930; INF-D-930 Berufspraktikum
+INF-D-930; INF-D-940 Berufsspezifische Schlüsselkompetenzen
+INF-D-930; INF-D-950 Großer Beleg
+INF-D-930; INF-D-960 Analyse eines Forschungsthemas
+INF-VMI-1; INF-VMI-1 Software Engineering Ubiquitärer Systeme
+INF-VMI-2; INF-VMI-2 Multimedia Information Retrieval and Management
+INF-VMI-3; INF-VMI-3 Advanced Web-Engineering
+INF-VMI-4; INF-VMI-4 Advanced Multimedia User Interfaces
+INF-VMI-5; INF-VMI-5 Interaktionsdesign Theorie
+INF-VMI-6; INF-VMI-6 Interaktionsdesign Praxis
+INF-VMI-7; INF-VMI-7 Interaktionstechnologie für die künstlerische Praxis
+INF-VMI-8; INF-VMI-8 Angewandte Graphische Datenverarbeitung
+INF-VMI-9; INF-VMI-9 eLearning
+INF-VMI-10; INF-VMI-10 Multimodale Benutzungsoberflächen
+INF-BI-1; INF-BI-1 Verteilte Systeme und Internetdienste
+INF-BI-2; INF-BI-2 Data Management and Analytics
+INF-BI-3; INF-BI-3 Datenschutz und Datensicherheit
+INF-BI-4; INF-BI-4 Softwarearchitektur
+INF-BI-5; INF-BI-5 Softwareentwicklungs-Methoden
+INF-E-1; INF-E-1 Technisch-naturwissenschaftlicher Forschungs- und Anwendungskontext der Medieninformatik
+INF-E-2; INF-E-2 Geistes- und humanwissenschaftlicher Forschungs- und Anwendungskontext der Medieninformatik
+INF-E-3; INF-E-3 Kerngebiete der Informatik
+INF-E-4; INF-E-4 Master-Praktikum Medieninformatik
