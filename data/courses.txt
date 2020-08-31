@@ -58,6 +58,7 @@ Betriebsmittel_und_Berechnungsgrundlagen_elektrischer_Energieversorgungssysteme;
 Betriebsprozesse_und_Betriebsplanung_im_ÖV;Betriebsprozesse und Betriebsplanung im ÖV
 Betriebssteuerung_und_Betriebsplanung_im_ÖV;Betriebssteuerung und Betriebsplanung im ÖV
 Betriebssysteme_und_Sicherheit;Betriebssysteme und Sicherheit
+Big_Data_Platforms;Big Data Platforms
 Bildgebende_Verfahren_und_Geräte_in_der_Medizin;Bildgebende Verfahren und Geräte in der Medizin
 Bildsprache;Bildsprache 
 Biodiversität_der_Pflanzen;Biodiversität der Pflanzen
@@ -79,6 +80,7 @@ Complex_Lab:_SAT_Solving;Complex Lab: SAT Solving
 Component_Based_Software_Engineering;Component Based Software Engineering 
 Computer_und_Medien_in_der_Schule;Computer und Medien in der Schule
 Computer_Vision_1;Computer Vision 1
+Computer_Vision_2;Computer Vision 2
 Computer-_und_robotergestuetzte_Chirurgie;Computer- und robotergestützte Chirurgie
 Computer-_und_Präsentationsgraphik;Computer- und Präsentationsgraphik
 Computerarithmetik;Computerarithmetik 
@@ -564,6 +566,7 @@ Rechnernetzpraxis_für_Lehramt;Rechnernetzpraxis für Lehramt
 Rechnernetzpraxis_für_Wirtschaftswissenschaften;Rechnernetzpraxis für Wirtschaftswissenschaften
 Rechnerstrukturen_und_-organisation;Rechnerstrukturen und -organisation
 Requirements_Engineering_und_Testen;Requirements Engineering und Testen
+Resilient_Networking;Resilient Networking
 Ressourceneinsatzplanung_in_Fertigungssystemen;Ressourceneinsatzplanung in Fertigungssystemen 
 Role-based_Software_Infrastructures;Role-based Software Infrastructures
 SAT_Solving;SAT-Solving und das Lösen von Sudokus
@@ -628,6 +631,7 @@ Systementwurf;Systementwurf
 Systemorientierte_Informatik_und_Hardware_Software_Codesign;Systemorientierte Informatik und Hardware Software Codesign
 Systems_Engineering_I;Systems Engineering I
 Systems_Engineering_II;Systems Engineering II
+Systemsicherheits_Labor;Systemsicherheits-Labor
 Systemtechnische_Grundlagen_der_Prozessgestaltung;Systemtechnische Grundlagen der Prozessgestaltung
 Technische_Akustik;Technische Akustik
 Technische_Grundlagen_der_Informatik;Technische Grundlagen der Informatik
