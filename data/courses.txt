@@ -81,6 +81,7 @@ Component_Based_Software_Engineering;Component Based Software Engineering
 Computer_und_Medien_in_der_Schule;Computer und Medien in der Schule
 Computer_Vision_1;Computer Vision 1
 Computer_Vision_2;Computer Vision 2
+Computer-_und_robotergestuetzte_Chirurgie;Computer- und robotergestützte Chirurgie
 Computer-_und_Präsentationsgraphik;Computer- und Präsentationsgraphik
 Computerarithmetik;Computerarithmetik 
 Computergraphik_I;Computergraphik I
