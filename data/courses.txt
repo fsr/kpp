@@ -602,6 +602,7 @@ Seminar_Theoretical_Computer_Science;Seminar Theoretical Computer Science
 Signalverarbeitung;Signalverarbeitung
 Simulationssysteme;Simulationssysteme
 Skalierbare_Software-Werkzeuge_zur_Unterstützung_der_Anwendungsoptimierung_auf_HPC-Systemen;Skalierbare Software-Werkzeuge zur Unterstützung der Anwendungsoptimierung auf HPC-Systemen
+Software_as_a_Business;Software as a Business
 Software_Engineering_ubiquitärer_Systeme;Software Engineering ubiquitärer Systeme
 Software_Fault_Tolerance;Software Fault Tolerance
 Software-Reengineering;Software-Reengineering
