@@ -25,6 +25,14 @@ in
       default = "kpp";
       description = "The group under which the server runs.";
     };
+    dataDir = mkOption {
+      type = types.path;
+      default = "/var/lib/kpp";
+      description = lib.mdDoc ''
+        Data directory
+      '';
+    };
+
   };
 
   config = lib.mkIf cfg.enable {
@@ -51,6 +59,9 @@ in
       isSystemUser = true;
     };
     users.groups.kpp = lib.mkIf (cfg.group == "kpp") { };
+    systemd.tmpfiles.rules = [
+      "d '${cfg.dataDir}' 0700 ${cfg.user} ${cfg.group} - -"
+    ];
 
     services.nginx = lib.mkIf (cfg.hostName != null) {
       enable = true;
