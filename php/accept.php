@@ -21,8 +21,8 @@
 				mkdir('/srv/ftp/komplexpruef/'.$_GET[$dir]);
 			}
 		
-			copy('./unverified/'.$_GET[$file], '/srv/ftp/komplexpruef/'.$_GET[$dir].'/'.$_GET[$file]);
-			unlink('./unverified/'.$_GET[$file]);
+			copy('/var/lib/kpp/unverified/'.$_GET[$file], '/srv/ftp/komplexpruef/'.$_GET[$dir].'/'.$_GET[$file]);
+			unlink('/var/lib/kpp/unverified/'.$_GET[$file]);
 		}
 	} else {
     	echo 'wrong IP range';

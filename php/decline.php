@@ -14,7 +14,7 @@
 			if(array_key_exists($file, $_GET) == FALSE)
 				break;
 		
-			unlink('./unverified/'.$_GET[$file]);
+			unlink('/var/lib/kpp/unverified/'.$_GET[$file]);
 		}
     } else {
     	echo 'wrong IP range';

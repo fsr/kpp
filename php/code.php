@@ -55,9 +55,9 @@
 			"\nPrüfer: ".$_POST['course'.$courseNr.'examinant'].
 			"\n".$_POST['course'.$courseNr.'review'];
 		
-		if (!is_dir('unverified/'))
-			mkdir('unverified/');
-		file_put_contents('./unverified/'.$fileName, $head.$input);
+		if (!is_dir('/var/lib/kpp/unverified/'))
+			mkdir('/var/lib/kpp/unverified/');
+		file_put_contents('/var/lib/kpp/unverified/'.$fileName, $head.$input);
 		
 		$linkAccept = $linkAccept.'file'.$courseNr.'='.urlencode($fileName).'&'.
 			'dir'.$courseNr.'='.urlencode(trim($_POST['course'.$courseNr.'select'])).'&';
