@@ -12,6 +12,7 @@ Algebraische_Strukturen:_Diskrete_Strukturen;Algebraische Strukturen für Ba-Mat
 Algebraische_Strukturen:_Methoden_der_angewandten_Algebra;Algebraische Strukturen für Ba-Math, Ordnungs- und Verbandstheorie
 Algorithmen_und_Datenstrukturen;Algorithmen und Datenstrukturen
 Algorithmic_Bioinformatics;Algorithmic Bioinformatics
+Algorithmic_Game_Theory; Algorithmic Game Theory
 Allgemeine_Genetik_II;Allgemeine Genetik II
 Amtliches_Vermessungswesen:_Raumbezug;Amtliches Vermessungswesen: Raumbezug
 Analyse_eines_Forschungsthemas_in_Datenschutz_und_Datensicherheit;Analyse eines Forschungsthemas in Datenschutz und Datensicherheit
@@ -89,7 +90,10 @@ Computergraphik_I;Computergraphik I
 Computergraphik_II;Computergraphik II
 Computergraphik_III;Computergraphik III
 Computertechnik;Computertechnik 
+Cooperative_Mobile_Systems;Cooperative Mobile Systems
 Darstellungslehre_1;Darstellungslehre 1
+Database_Systems-Design_and_Implementation;Database Systems: Design and Implementation
+Database_Theory; Database Theory
 Datenbankadministration;Datenbankadministration 
 Datenbanken_-_Grundlagen;Datenbanken - Grundlagen
 Datenbanken_-_Übung_zur_Vorlesung;Datenbanken - Übung zur Vorlesung
@@ -162,6 +166,7 @@ Elektrooptische_Messverfahren;Elektrooptische Messverfahren
 Energieversorgung_elektrischer_Fahrzeuge;Energieversorgung elektrischer Fahrzeuge
 Energy_Data_Management;Energy Data Management
 Engineering_industrieller_Kommunikationssysteme;Engineering industrieller Kommunikationssysteme 
+Engineering_Adaptive_Mobile_Applications;Engineering Adaptive Mobile Applications
 Enterprise_Software:_Applications,_Technologies,_and_Programming;Enterprise Software: Applications, Technologies, and Programming 
 Entwicklung_verteilter_Systeme_auf_Basis_Serviceorientierter_Architekturen;Entwicklung verteilter Systeme auf Basis Serviceorientierter Architekturen
 Entwicklungsprozesse_für_ubiquitäre_Systeme;Entwicklungsprozesse für ubiquitäre Systeme
@@ -226,6 +231,7 @@ Foundations_of_Concurrent_and_Distributed_Systems;Foundations of Concurrent and 
 Foundations_of_Constraint_Programming;Foundations of Constraint Programming
 Foundations_of_Logic_Programming;Foundations of Logic Programming
 Foundations_of_Semantic_Web_Technologies;Foundations of Semantic Web Technologies
+Foundations_of_Virtual_Reality;Foundations of Virtual Reality
 Funktionale_Programmierung_und_Typtheorie;Funktionale Programmierung und Typtheorie
 Future_Proof_Software_Systems;Future Proof Software Systems
 Fuzzy_Description_Logic;Fuzzy Description Logic
@@ -470,6 +476,7 @@ Nachhaltige_Unternehmensführung;Nachhaltige Unternehmensführung
 Nachrichtentechnik;Nachrichtentechnik
 Natural_Language_Processing_for_Knowledge_Representation;Natural Language Processing for Knowledge Representation
 Navigation;Navigation
+Network_Simulation; Network Simulation
 Networks,_Function_and_Genomics;Networks, Function and Genomics
 Netzwerkmanagement_in_industriellen_Anwendungen;Netzwerkmanagement in industriellen Anwendungen
 Neural_Symbolic_Integration;Neural Symbolic Integration
@@ -573,6 +580,7 @@ Role-based_Software_Infrastructures;Role-based Software Infrastructures
 SAT_Solving;SAT-Solving und das Lösen von Sudokus
 SAT-Solving_und_das_Lösen_von_Sudokus;SAT Solving
 Satellitenkommunikation;Satellitenkommunikation
+Scalable_Data_Engineering;Scalable Data Engineering
 Schallschutz_in_der_Straßenplanung;Schallschutz in der Straßenplanung
 Schaltkreis-_und_Systementwurf;Schaltkreis- und Systementwurf 
 Schedulingtheorie;Schedulingtheorie
@@ -600,6 +608,7 @@ Seminar_Photogrammetrie;Seminar Photogrammetrie
 Seminar_Schaltkreis-_und_Systementwurf;Seminar Schaltkreis- und Systementwurf
 Seminar_Selected_Topics_in_Logic_and_Verification;Seminar Selected Topics in Logic and Verification
 Seminar_Theoretical_Computer_Science;Seminar Theoretical Computer Science
+Service_und_Cloud_Computing;Service und Cloud Computing
 Signalverarbeitung;Signalverarbeitung
 Simulationssysteme;Simulationssysteme
 Skalierbare_Software-Werkzeuge_zur_Unterstützung_der_Anwendungsoptimierung_auf_HPC-Systemen;Skalierbare Software-Werkzeuge zur Unterstützung der Anwendungsoptimierung auf HPC-Systemen
@@ -670,6 +679,7 @@ Verkehrsökologie;Verkehrsökologie
 Verkehrsplanerisches_Kolloquium;Verkehrsplanerisches Kolloquium
 Verkehrsrecht;Verkehrsrecht
 Verkehrssensorik;Verkehrssensorik
+Vehicular_Communication;Vehicular Communication
 Virtuelle_Landschaften;Virtuelle Landschaften
 Virtuelle_Realitäten;Virtuelle Realitäten
 Visualisierung;Visualisierung
