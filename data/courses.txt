@@ -486,6 +486,7 @@ Numerische_Methoden_I;Numerische Methoden I
 Numerische_Methoden_II_(CFD);Numerische Methoden II (CFD)
 Nutzung_von_Standardsoftware;Nutzung von Standardsoftware
 Online-Kommunikation;Online-Kommunikation
+Operating-System_Contruction; Operatings-System Construction (OSC)
 Optimierung_und_Numerik;Optimierung und Numerik
 Optimierung_und_Numerik_II;Optimierung und Numerik II
 Optimierungsverfahren;Optimierungsverfahren
