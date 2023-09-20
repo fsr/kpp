@@ -209,6 +209,11 @@ for ($i = 1; $i < count($tmp_courses); $i++) {
 			<input style="background-color:#648010" type="submit" value="Abschicken" />
 		</form>
 	</div>
+	<footer class="container">
+	      <small>Built with <a href="https://picocss.com">Pico</a> (MIT Licence)</small><br>
+	      <small><a href="https://ifsr.de/impressum">Impressum</a> • <a href="https://ifsr.de/datenschutz">Datenschutz</a></small><br><br>
+	      <small><a href="https://github.com/fsr/kpp">Source Code</a></small>
+	</footer>
 </body>
 
 </html>
