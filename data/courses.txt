@@ -496,6 +496,7 @@ Ortung,_Navigation_und_Zielführung_I/2;Ortung, Navigation und Zielführung I/2
 Ortung,_Navigation_und_Zielführung_II;Ortung, Navigation und Zielführung II
 Parallele_Programmierung,_Algorithmen_und_Methoden;Parallele Programmierung, Algorithmen und Methoden
 Permutationsgruppen;Permutationsgruppen
+Performance_Analysis_Of_Computing_Systems
 Pflanzenphysiologie;Pflanzenphysiologie
 Photogrammetrie_2;Photogrammetrie 2
 Physiologie_der_Mikroorganismen;Physiologie der Mikroorganismen
