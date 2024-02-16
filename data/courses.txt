@@ -3,6 +3,7 @@ Academic_Skills_in_Computer_Science;Academic Skills in Computer Science
 Academic_Writing_and_Presenting;Academic Writing and Presenting
 Advanced_Logic;Advanced Logic
 Advanced_Logics:_Model_Checking;Advanced Logics: Model Checking
+Advanced_Problem_Solving_and_Search;Advanced problem Solving and Search
 Advanced_Query_Processing_in_Database_Systems;Advanced Query Processing in Database Systems
 Advanced_User_Interfaces;Advanced User Interfaces 
 Akustik;Akustik
