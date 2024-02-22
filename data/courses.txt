@@ -193,7 +193,7 @@ Fahrzeugkommunikation_I/2;Fahrzeugkommunikation I/2
 Fahrzeugkommunikation_II;Fahrzeugkommunikation II
 FAQS/Fertigungsinformatik;FAQS/Fertigungsinformatik
 Fertigungsplanung_II_-_Teilefertigung;Fertigungsplanung II - Teilefertigung
-ertigungstechnik;Fertigungstechnik
+Fertigungstechnik;Fertigungstechnik
 Fertigungstechnisches_Praktikum;Fertigungstechnisches Praktikum
 Flugmeteorolgie;Flugmeteorolgie
 Flugplanung;Flugplanung
