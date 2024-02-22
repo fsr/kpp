@@ -193,7 +193,7 @@ Fahrzeugkommunikation_I/2;Fahrzeugkommunikation I/2
 Fahrzeugkommunikation_II;Fahrzeugkommunikation II
 FAQS/Fertigungsinformatik;FAQS/Fertigungsinformatik
 Fertigungsplanung_II_-_Teilefertigung;Fertigungsplanung II - Teilefertigung
-Fertigungstechnik;Fertigungstechnik
+ertigungstechnik;Fertigungstechnik
 Fertigungstechnisches_Praktikum;Fertigungstechnisches Praktikum
 Flugmeteorolgie;Flugmeteorolgie
 Flugplanung;Flugplanung
@@ -455,6 +455,7 @@ Mobile_Cartography;Mobile Cartography
 Mobile_Communication_and_Mobile_Computing;Mobile Communication and Mobile Computing
 Mobile_Sensing;Mobile Sensing
 Mobile_Sensing_Lab;Mobile Sensing Lab
+Modal_Logic: Modal Logic
 Model_Checking;Model-Driven Web Engineering II
 Model-Driven_Web_Engineering_I;Model Checking 
 Model-Driven_Web_Engineering_II;Model-Driven Web Engineering I
