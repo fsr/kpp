@@ -455,7 +455,7 @@ Mobile_Cartography;Mobile Cartography
 Mobile_Communication_and_Mobile_Computing;Mobile Communication and Mobile Computing
 Mobile_Sensing;Mobile Sensing
 Mobile_Sensing_Lab;Mobile Sensing Lab
-Modal_Logic: Modal Logic
+Modal_Logic;Modal Logic
 Model_Checking;Model-Driven Web Engineering II
 Model-Driven_Web_Engineering_I;Model Checking 
 Model-Driven_Web_Engineering_II;Model-Driven Web Engineering I
