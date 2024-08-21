@@ -80,6 +80,7 @@ Codierungstheorie;Codierungstheorie
 Communication-Surveillance;Communication-Surveillance
 Compilerbau;Compilerbau 
 Complex_Lab:_SAT_Solving;Complex Lab: SAT Solving
+Complexity_Theory;Complexity Theory
 Component_Based_Software_Engineering;Component Based Software Engineering 
 Computer_und_Medien_in_der_Schule;Computer und Medien in der Schule
 Computer_Vision_1;Computer Vision 1
