@@ -420,6 +420,7 @@ Logic_Programming_Engineering;Logic Programming Engineering
 Luftverkehrsanlagen,_-betrieb_und_Flugsicherung;Luftverkehrsanlagen, -betrieb und Flugsicherung
 Machine_Learning_1;Machine Learning 1
 Machine_Learning_2:_Structured_Models;Machine Learning 2: Structured Models
+Machine_Learning_for_Robotics;Machine Learning for Robotics
 Machine_Translation_Lab;Machine Translation Lab 
 Makroökonomie_für_Nichtwirtschaftswissenschaftler;Makroökonomie für Nichtwirtschaftswissenschaftler
 Managementprozesse;Managementprozesse
