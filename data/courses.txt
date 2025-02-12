@@ -46,6 +46,7 @@ Ausgewählte_Kapitel_der_Softwaretechnologie;Ausgewählte Kapitel der Softwarete
 Automata_and_Logic;Automata and Logic
 Automatisierungstechnik;Automatisierungstechnik
 Automotive_Software_Engineering;Automotive Software Engineering
+Automotive_Software_Safety;Automative Software Safety
 Autonome_und_kooperative_Systeme_in_der_BMT;Autonome und kooperative Systeme in der BMT
 Bahn-_und_ÖPNV;Bahn- und ÖPNV
 Bahnbetriebsprozesse_und_-betriebsplanung;Bahnbetriebsprozesse und -betriebsplanung
