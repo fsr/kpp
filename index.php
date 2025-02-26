@@ -106,7 +106,7 @@ for ($i = 1; $i < count($tmp_courses); $i++) {
 			<h4>
 				<?php echo GetLangText('courses', 'Lehrveranstaltungen'); ?>
 			</h4>
-			<p><?php echo GetLangText('coursesInfo', 'Du kannst eine deiner Lehrveranstaltungen nicht finden? Dann schreib uns einfach <a href="mailto:fsr@ifsr.de">eine Mail</a>.'); ?></p>
+			<p><?php echo GetLangText('coursesInfo', 'Du kannst eine deiner Lehrveranstaltungen nicht finden? Dann schreib uns einfach <a href="mailto:fsr@ifsr.de">eine Mail</a> oder <a href="https://github.com/fsr/kpp/blob/master/data/courses.txt">füge sie einfach selbst hinzu</a>.'); ?></p>
 			<?php for ($i = 1; $i < 5; $i++) {
 				echo '<div id="course' . $i . '" name="course' . $i . '">';
 
