@@ -62,6 +62,7 @@ Betriebsmittel_und_Berechnungsgrundlagen_elektrischer_Energieversorgungssysteme;
 Betriebsprozesse_und_Betriebsplanung_im_ÖV;Betriebsprozesse und Betriebsplanung im ÖV
 Betriebssteuerung_und_Betriebsplanung_im_ÖV;Betriebssteuerung und Betriebsplanung im ÖV
 Betriebssysteme_und_Sicherheit;Betriebssysteme und Sicherheit
+Blockchain_Technologies;Blockchain Technologies
 Big_Data_Platforms;Big Data Platforms
 Bildgebende_Verfahren_und_Geräte_in_der_Medizin;Bildgebende Verfahren und Geräte in der Medizin
 Bildsprache;Bildsprache 
@@ -500,6 +501,7 @@ Organisation;Organisation
 Ortung,_Navigation_und_Zielführung_I/2;Ortung, Navigation und Zielführung I/2
 Ortung,_Navigation_und_Zielführung_II;Ortung, Navigation und Zielführung II
 Parallele_Programmierung,_Algorithmen_und_Methoden;Parallele Programmierung, Algorithmen und Methoden
+Peer-to-Peer_Systems;Peer-to-Peer Systems
 Permutationsgruppen;Permutationsgruppen
 Performance_Analysis_Of_Computing_Systems;Performance Analysis Of Computing Systems
 Pflanzenphysiologie;Pflanzenphysiologie
@@ -616,6 +618,7 @@ Seminar_Schaltkreis-_und_Systementwurf;Seminar Schaltkreis- und Systementwurf
 Seminar_Selected_Topics_in_Logic_and_Verification;Seminar Selected Topics in Logic and Verification
 Seminar_Theoretical_Computer_Science;Seminar Theoretical Computer Science
 Service_und_Cloud_Computing;Service und Cloud Computing
+Sicherheit_in_Anwendungen;Sicherheit in Anwendungen
 Signalverarbeitung;Signalverarbeitung
 Simulationssysteme;Simulationssysteme
 Skalierbare_Software-Werkzeuge_zur_Unterstützung_der_Anwendungsoptimierung_auf_HPC-Systemen;Skalierbare Software-Werkzeuge zur Unterstützung der Anwendungsoptimierung auf HPC-Systemen
