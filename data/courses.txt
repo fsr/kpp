@@ -590,6 +590,7 @@ SAT_Solving;SAT-Solving und das Lösen von Sudokus
 SAT-Solving_und_das_Lösen_von_Sudokus;SAT Solving
 Satellitenkommunikation;Satellitenkommunikation
 Scalable_Data_Engineering;Scalable Data Engineering
+Scalable_Data_Management;Scalable Data Management
 Schallschutz_in_der_Straßenplanung;Schallschutz in der Straßenplanung
 Schaltkreis-_und_Systementwurf;Schaltkreis- und Systementwurf 
 Schedulingtheorie;Schedulingtheorie
