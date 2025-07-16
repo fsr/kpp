@@ -692,6 +692,7 @@ Verkehrsplanerisches_Kolloquium;Verkehrsplanerisches Kolloquium
 Verkehrsrecht;Verkehrsrecht
 Verkehrssensorik;Verkehrssensorik
 Vehicular_Communication;Vehicular Communication
+Vehicular_Networking;Vehicular Networking
 Virtuelle_Landschaften;Virtuelle Landschaften
 Virtuelle_Realitäten;Virtuelle Realitäten
 Visualisierung;Visualisierung
