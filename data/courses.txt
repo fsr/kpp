@@ -482,6 +482,7 @@ Nachhaltige_Unternehmensführung;Nachhaltige Unternehmensführung
 Nachrichtentechnik;Nachrichtentechnik
 Natural_Language_Processing_for_Knowledge_Representation;Natural Language Processing for Knowledge Representation
 Navigation;Navigation
+Network_Security; Network Security
 Network_Simulation; Network Simulation
 Networks,_Function_and_Genomics;Networks, Function and Genomics
 Netzwerkmanagement_in_industriellen_Anwendungen;Netzwerkmanagement in industriellen Anwendungen
