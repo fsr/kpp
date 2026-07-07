@@ -17,8 +17,8 @@
 			if(array_key_exists($file, $_GET) == FALSE || array_key_exists($dir, $_GET) == FALSE)
 				break;
 		
-			if(!is_dir('/srv/ftp/komplexpruef/'.$_GET[$dir])){
-				mkdir('/srv/ftp/komplexpruef/'.$_GET[$dir]);
+			if(!is_dir('/srv/ftp/gedankenprotokolle/'.$_GET[$dir])){
+				mkdir('/srv/ftp/gedankenprotokolle/'.$_GET[$dir]);
 			}
 		
 			copy('/var/lib/kpp/unverified/'.$_GET[$file], '/srv/ftp/komplexpruef/'.$_GET[$dir].'/'.$_GET[$file]);
