@@ -1,5 +1,5 @@
 title			=	Formular for entering protocolls of exams
-headline		=	Protocoll of Exam
+headline		=	Exam verbatim record
 module			=	Module
 genInfo			=	General information
 mainExa			=	Main examinant

@@ -1,5 +1,5 @@
 title			=	Formular zum Eintragen von Prüfungsprotokollen
-headline		=	Komplexprüfungsprotokolle
+headline		=	Gedächtnisprotokoll
 module			=	Modul
 genInfo			=	Allgemeine Informationen
 mainExa			=	Hauptprüfer

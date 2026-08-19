@@ -72,7 +72,7 @@ for ($i = 1; $i < count($tmp_courses); $i++) {
 	<div class="container">
 		<form action="php/code.php?lang=de" method="post">
 			<h3 style="padding-top:2em;">
-				<?php echo GetLangText('headline', 'Komplexprüfungsprotokolle'); ?>
+				<?php echo GetLangText('headline', 'Gedächtnisprotokoll'); ?>
 			</h3>
 
 			<label for="nudule">
