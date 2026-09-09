@@ -47,3 +47,11 @@ INF-E-1; INF-E-1 Technisch-naturwissenschaftlicher Forschungs- und Anwendungskon
 INF-E-2; INF-E-2 Geistes- und humanwissenschaftlicher Forschungs- und Anwendungskontext der Medieninformatik
 INF-E-3; INF-E-3 Kerngebiete der Informatik
 INF-E-4; INF-E-4 Master-Praktikum Medieninformatik
+INF-25-MA-FTK; INF-25-MA-FTK Fachgebiet Theoretical Computer Science and Symbolic Artificial Intelligence
+INF-25-MA-FSP; INF-25-MA-FSP Fachgebiet Software Technology and Programming Languages
+INF-25-MA-FSC; INF-25-MA-FSC Fachgebiet Secure Computing
+INF-25-MA-FSA; INF-25-MA-FSA Fachgebiet Systems Architecture
+INF-25-MA-FCP; INF-25-MA-FCP Fachgebiet Cyber Physical Systems
+INF-25-MA-FVC; INF-25-MA-FVC Fachgebiet Visual Computing and Machine Learning
+INF-25-MA-FHI; INF-25-MA-FHI Fachgebiet Human-Computer Interaction and Interactive Media
+INF-25-MA-FTI; INF-25-MA-FTI Fachgebiet Computer Engineering and High Performance Computing
