@@ -18,7 +18,7 @@
 		mkdir('/srv/ftp/gedankenprotokolle/'.$_GET[$dir]);
 	}
 
-	copy('/var/lib/kpp/unverified/'.$_GET[$file], '/srv/ftp/komplexpruef/'.$_GET[$dir].'/'.$_GET[$file]);
+	copy('/var/lib/kpp/unverified/'.$_GET[$file], '/srv/ftp/gedankenprotokolle/'.$_GET[$dir].'/'.$_GET[$file]);
 	unlink('/var/lib/kpp/unverified/'.$_GET[$file]);
 	//} else {
     	//echo 'wrong IP range';
