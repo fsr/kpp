@@ -49,7 +49,6 @@ for ($i = 1; $i < count($tmp_modules); $i++) {
 	</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 	<meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
-	<script type="text/javascript" language="JavaScript" src="js/main_js.js"></script>
 	<link rel="stylesheet" href="pico.min.css">
 	<style>
 		input[type=checkbox] {
@@ -61,7 +60,7 @@ for ($i = 1; $i < count($tmp_modules); $i++) {
 
 <body>
 	<div class="container">
-		<form action="php/code.php?lang=de" method="post">
+		<form action="submit.php" method="post">
 			<h3 style="padding-top:2em;">
 				<?php echo GetLangText('headline', 'Gedächtnisprotokoll'); ?>
 			</h3>

@@ -26,8 +26,8 @@
 	}
 	
 	$logText = '';
-	$linkAccept = 'https://kpp.ifsr.de/php/accept.php?';
-	$linkDecline = 'https://kpp.ifsr.de/php/decline.php?';
+	$linkAccept = 'https://kpp.ifsr.de/control/accept.php?';
+	$linkDecline = 'https://kpp.ifsr.de/control/decline.php?';
 	
 	if($_POST['email']==""){
 		$mail = "";
