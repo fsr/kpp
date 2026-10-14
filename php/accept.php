@@ -13,8 +13,6 @@
 	//if(preg_match('/^(?:141\.76\.100\.)[1|2]{1}[0-9]{2}$/',$addr,$result) === 1){
 	$file = 'file';
 	$dir = 'dir';
-	if(array_key_exists($file, $_GET) == FALSE || array_key_exists($dir, $_GET) == FALSE)
-		break;
 
 	if(!is_dir('/srv/ftp/gedankenprotokolle/'.$_GET[$dir])){
 		mkdir('/srv/ftp/gedankenprotokolle/'.$_GET[$dir]);
