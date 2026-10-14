@@ -31,7 +31,7 @@
             mkdir -p $out
             cp -r $src/data $out
             cp -r $src/lang $out
-            cp -r $src/php $out
+            cp -r $src/control $out
             cp $src/index.php $out
             cp $src/submit.php $out
             cp $src/pico.min.css $out
