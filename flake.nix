@@ -36,6 +36,7 @@
             cp $src/index.php $out
             cp $src/pico.min.css $out
             cp $src/robots.txt $out
+            cp $src/favicon.ico $out
           '';
         };
       });
