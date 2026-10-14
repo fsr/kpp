@@ -106,7 +106,7 @@
 			?>
 		</title>
 		<meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
-		<link rel="stylesheet" href="../style.css" type="text/css" />
+		<link rel="stylesheet" href="../pico.min.css" type="text/css" />
 	</head>
 	<body>
 		<div class="main">
