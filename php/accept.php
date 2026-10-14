@@ -11,19 +11,17 @@
 	//	echo $item.'<br />';
 	
 	//if(preg_match('/^(?:141\.76\.100\.)[1|2]{1}[0-9]{2}$/',$addr,$result) === 1){
-		for($i=1;$i <= 4; $i++){
-			$file = 'file'.$i;
-			$dir = 'dir'.$i;
-			if(array_key_exists($file, $_GET) == FALSE || array_key_exists($dir, $_GET) == FALSE)
-				break;
-		
-			if(!is_dir('/srv/ftp/gedankenprotokolle/'.$_GET[$dir])){
-				mkdir('/srv/ftp/gedankenprotokolle/'.$_GET[$dir]);
-			}
-		
-			copy('/var/lib/kpp/unverified/'.$_GET[$file], '/srv/ftp/komplexpruef/'.$_GET[$dir].'/'.$_GET[$file]);
-			unlink('/var/lib/kpp/unverified/'.$_GET[$file]);
-		}
+	$file = 'file';
+	$dir = 'dir';
+	if(array_key_exists($file, $_GET) == FALSE || array_key_exists($dir, $_GET) == FALSE)
+		break;
+
+	if(!is_dir('/srv/ftp/gedankenprotokolle/'.$_GET[$dir])){
+		mkdir('/srv/ftp/gedankenprotokolle/'.$_GET[$dir]);
+	}
+
+	copy('/var/lib/kpp/unverified/'.$_GET[$file], '/srv/ftp/komplexpruef/'.$_GET[$dir].'/'.$_GET[$file]);
+	unlink('/var/lib/kpp/unverified/'.$_GET[$file]);
 	//} else {
     	//echo 'wrong IP range';
     //}
