@@ -58,8 +58,6 @@
 			mkdir('/var/lib/kpp/unverified/');
 		file_put_contents('/var/lib/kpp/unverified/'.$fileName, $head.$input);
 		
-
-		error_log($input);
 		
 		$linkAccept = $linkAccept.'file='.urlencode($fileName).'&'.
 			'dir='.urlencode(trim($_POST['module'])).'&';
