@@ -42,26 +42,26 @@
 	"\nPrüfer: ".$_POST['examinant'].
 	"\n";
 	
-	function CreateCourseFile($courseNr)
-	{
+	function CreateCourseFile() {
 		global $linkAccept;
 		global $linkDecline;
 		global $head;
 		global $logText;
 		
-		$fileName = trim($_POST['course'.$courseNr.'select']).time();
+		$fileName = trim($_POST['module']).time();
 
-		$input = "\nLehrveranstaltung: ".$_POST['course'.$courseNr.'select'].
-			"\nPrüfer: ".$_POST['course'.$courseNr.'examinant'].
-			"\n".$_POST['course'.$courseNr.'review'];
+		$input = "\nLehrveranstaltung: ".$_POST['module'].
+			"\nPrüfer: ".$_POST['examinant'].
+			"\n".$_POST['review'];
 		
 		if (!is_dir('/var/lib/kpp/unverified/'))
 			mkdir('/var/lib/kpp/unverified/');
 		file_put_contents('/var/lib/kpp/unverified/'.$fileName, $head.$input);
 		
-		$linkAccept = $linkAccept.'file'.$courseNr.'='.urlencode($fileName).'&'.
-			'dir'.$courseNr.'='.urlencode(trim($_POST['course'.$courseNr.'select'])).'&';
-		$linkDecline = $linkDecline.'file'.$courseNr.'='.urlencode($fileName).'&';
+		
+		$linkAccept = $linkAccept.'file='.urlencode($fileName).'&'.
+			'dir='.urlencode(trim($_POST['module'])).'&';
+		$linkDecline = $linkDecline.'file'.'='.urlencode($fileName).'&';
 		
 		$logText = $logText.$input;
 	}
@@ -111,11 +111,11 @@
 	<body>
 		<div class="main">
 			<div>
-				<p class="headline">
+				<h1 class="headline">
 					<?php
 							echo GetLangText('headline', 'Komplexprüfungsprotokolle');
 					?>
-				</p>
+				</h1>
 			</div>
 			<div class="header">
 				<p class="headerText">

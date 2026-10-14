@@ -1,57 +1,192 @@
 ShortIdentifier; Name
-INF-B-490; INF-B-490 Komplexpraktikum
-INF-B-510; INF-B-510 Vertiefung (Informatik)
-INF-B-520; INF-B-520 Vertiefung zur Bachelor-Arbeit (Informatik)
-INF-B-530; INF-B-530 Vertiefung (Medieninformatik)
-INF-B-540; INF-B-540 Vertiefung zur Bachelor-Arbeit (Medieninformatik)
-INF-D-510; INF-D-510 Grundlagen des Nebenfachs
-INF-D-910; INF-D-910 Forschungslinie
-INF-D-920; INF-D-920 Vertiefung im Nebenfach
-INF-BAS1; INF-BAS1 Angewandte Informatik
-INF-BAS2; INF-BAS2 Künstliche Intelligenz
-INF-BAS3; INF-BAS3 Software- und Web-Engineering
-INF-BAS4; INF-BAS4 Systemarchitektur
-INF-BAS5; INF-BAS5 Technische Informatik
-INF-BAS6; INF-BAS6 Theoretische Informatik
-INF-BAS7; INF-BAS7 Graphische Datenverarbeitung
-INF-BAS8; INF-BAS8 Anwendungsfach
-INF-VERT1; INF-VERT1 Angewandte Informatik
-INF-VERT2; INF-VERT2 Künstliche Intelligenz
-INF-VERT3; INF-VERT3 Software- und Web-Engineering
-INF-VERT4; INF-VERT4 Systemarchitektur
-INF-VERT5; INF-VERT5 Technische Informatik
-INF-VERT6; INF-VERT6 Theoretische Informatik
-INF-VERT7; INF-VERT7 Graphische Datenverarbeitung
-INF-PM-FOR; INF-PM-FOR Grundlagenforschung
-INF-PM-FPG; INF-PM-FPG Forschungsprojekt Grundlagen
-INF-PM-ANW; INF-PM-ANW Anwendungsforschung
-INF-PM-FPA; INF-PM-FPA Forschungsprojekt Anwendung
-INF-MA-PR; INF-MA-PR Masterpraktikum
-INF-D-930; INF-D-960 Analyse eines Forschungsthemas
-INF-VMI-1; INF-VMI-1 Software Engineering Ubiquitärer Systeme
-INF-VMI-2; INF-VMI-2 Multimedia Information Retrieval and Management
-INF-VMI-3; INF-VMI-3 Advanced Web-Engineering
-INF-VMI-4; INF-VMI-4 Advanced Multimedia User Interfaces
-INF-VMI-5; INF-VMI-5 Interaktionsdesign Theorie
-INF-VMI-6; INF-VMI-6 Interaktionsdesign Praxis
-INF-VMI-7; INF-VMI-7 Interaktionstechnologie für die künstlerische Praxis
-INF-VMI-8; INF-VMI-8 Angewandte Graphische Datenverarbeitung
-INF-VMI-9; INF-VMI-9 eLearning
-INF-VMI-10; INF-VMI-10 Multimodale Benutzungsoberflächen
-INF-BI-1; INF-BI-1 Verteilte Systeme und Internetdienste
-INF-BI-2; INF-BI-2 Data Management and Analytics
-INF-BI-3; INF-BI-3 Datenschutz und Datensicherheit
-INF-BI-4; INF-BI-4 Softwarearchitektur
-INF-BI-5; INF-BI-5 Softwareentwicklungs-Methoden
-INF-E-1; INF-E-1 Technisch-naturwissenschaftlicher Forschungs- und Anwendungskontext der Medieninformatik
-INF-E-2; INF-E-2 Geistes- und humanwissenschaftlicher Forschungs- und Anwendungskontext der Medieninformatik
-INF-E-3; INF-E-3 Kerngebiete der Informatik
-INF-E-4; INF-E-4 Master-Praktikum Medieninformatik
-INF-25-MA-FTK; INF-25-MA-FTK Fachgebiet Theoretical Computer Science and Symbolic Artificial Intelligence
-INF-25-MA-FSP; INF-25-MA-FSP Fachgebiet Software Technology and Programming Languages
-INF-25-MA-FSC; INF-25-MA-FSC Fachgebiet Secure Computing
-INF-25-MA-FSA; INF-25-MA-FSA Fachgebiet Systems Architecture
-INF-25-MA-FCP; INF-25-MA-FCP Fachgebiet Cyber Physical Systems
-INF-25-MA-FVC; INF-25-MA-FVC Fachgebiet Visual Computing and Machine Learning
-INF-25-MA-FHI; INF-25-MA-FHI Fachgebiet Human-Computer Interaction and Interactive Media
-INF-25-MA-FTI; INF-25-MA-FTI Fachgebiet Computer Engineering and High Performance Computing
+Adaptive_Dynamic_Systems_Lab;Adaptive Dynamic Systems Lab
+Advanced_Computer_Networks;Advanced Computer Networks
+Advanced_Datastructures;Advanced Datastructures
+Advanced_Problem_Solving_and_Search;Advanced Problem Solving and Search
+Akustik_Grundlagen;Akustik Grundlagen
+Akustik_Spezialisierung_-_Psychoakustik;Akustik Spezialisierung - Psychoakustik
+Akustik_Spezialisierung_-_Sound_Design;Akustik Spezialisierung - Sound Design
+Algebra;Algebra
+Algorithmen_und_Datenstrukturen_2;Algorithmen und Datenstrukturen 2
+Applied_Power_System_Economics;Applied Power System Economics
+Atomistic_Simulation_Methods;Atomistic Simulation Methods
+Automaten-_und_Berechenbarkeitstheorie;Automaten- und Berechenbarkeitstheorie
+Automotive_Software_Safety;Automotive Software Safety
+Bachelorpraktikum_Systems_Programming_Lab;Bachelorpraktikum Systems Programming Lab
+Behind_the_Secrets_of_Large_Language_Models;Behind the Secrets of Large Language Models
+Betriebssysteme;Betriebssysteme
+Biomedical_Laser_Systems_and_Optogenetics;Biomedical Laser Systems and Optogenetics
+Biomedizinische_Technik_Grundlagen;Biomedizinische Technik Grundlagen
+Biomedizinische_Technik_-_Technische_Spezialisierung;Biomedizinische Technik - Technische Spezialisierung
+Biophysical_Methods;Biophysical Methods
+Blockchain_Technologies;Blockchain Technologies
+CMS_Research_Project_Immersive_Media;CMS Research Project Immersive Media
+CMS_Research_Project_Interactive_Visual_Computing;CMS Research Project Interactive Visual Computing
+CMS_Research_Project_Machine_Learning;CMS Research Project Machine Learning
+CMS_Research_Project_Robot_Learning;CMS Research Project Robot Learning
+CMS_Teamproject_Immersive_Systems;CMS Teamproject Immersive Systems
+Compilerbau_Lab;Compilerbau Lab
+Compiler_Construction;Compiler Construction
+Complexity_Theory;Complexity Theory
+Computational_Fluid_Dynamics;Computational Fluid Dynamics
+Computational_Statistics;Computational Statistics
+Computer-_and_Robot-Assisted_Surgery;Computer- and Robot-Assisted Surgery
+Computer_Vision_I;Computer Vision I
+Computer_Vision_I_20h_Project;Computer Vision I 20h Project
+Concepts_of_Molecular_Modelling;Concepts of Molecular Modelling
+Confidential_Computing;Confidential Computing
+Cooperative_Mobile_Systems_(CMS);Cooperative Mobile Systems (CMS)
+Cyber-Physical_Systems_Modeling_Lab_Advanced_(MLab2);Cyber-Physical Systems Modeling Lab Advanced (MLab2)
+Cyber-Physical_Systems_Modeling_Lab_(MLab1);Cyber-Physical Systems Modeling Lab (MLab1)
+Database_Management_Foundations_Übung_(Repetitorium);Database Management Foundations Übung (Repetitorium)
+Database_Systems:_Design_and_Implementation;Database Systems: Design and Implementation
+Data_Management_Lab;Data Management Lab
+Data_Visualization;Data Visualization
+Datenbank-Engineering_Übung_(Repetitorium);Datenbank-Engineering Übung (Repetitorium)
+Deep_Learning_for_Vision:_Foundations_and_Applications;Deep Learning for Vision: Foundations and Applications
+Design_Patterns_and_Frameworks;Design Patterns and Frameworks
+Didaktik_der_Informatik_-_Grundlagen_(nur_bbQ);Didaktik der Informatik - Grundlagen (nur bbQ)
+Didaktik_der_Informatik_-_Informatische_Bildung_an__schulen;Didaktik der Informatik - Informatische Bildung an _schulen
+Didaktik_der_Informatik_-_Informatische_Bildung_an__schulen_(bbQ);Didaktik der Informatik - Informatische Bildung an _schulen (bbQ)
+Didaktik_der_Informatik_-_Unterrichtsentwicklung;Didaktik der Informatik - Unterrichtsentwicklung
+Digital_Circuit_Design;Digital Circuit Design
+Digitale_Signalverarbeitung;Digitale Signalverarbeitung
+Digital_holography_and_image_processing_-_110;Digital holography and image processing - 110
+Digital_holography_and_image_processing_-_200;Digital holography and image processing - 200
+Distributed_Systems;Distributed Systems
+Doktorandenseminar_Datenbanken;Doktorandenseminar Datenbanken
+Effiziente_parallele_Algorithmen;Effiziente parallele Algorithmen
+Einführung_in_die_Technische_Informatik;Einführung in die Technische Informatik
+Einführungspraktikum:_RoboLab;Einführungspraktikum: RoboLab
+E-Learning_-_Seminar;E-Learning - Seminar
+Electric_Power_Markets;Electric Power Markets
+Engineering_and_Management_of_Industrial_Networks;Engineering and Management of Industrial Networks
+Experimental_Media_Lab;Experimental Media Lab
+Foundations_of_Certified_Programming_Language_and_Compiler_Design;Foundations of Certified Programming Language and Compiler Design
+Foundations_of_Computer_Graphics;Foundations of Computer Graphics
+Foundations_of_Knowledge_Representation;Foundations of Knowledge Representation
+Foundations_of_Logic_Programming;Foundations of Logic Programming
+Foundations_of_Virtual_Reality;Foundations of Virtual Reality
+Gekoppelte_Simulation/Echtzeitsimulation;Gekoppelte Simulation/Echtzeitsimulation
+Geodata_infrastructures;Geodata infrastructures
+Geoinformatik_Grundlagen;Geoinformatik Grundlagen
+Geoinformatik_Spezialisierung_-_Geodateninfrastrukturen;Geoinformatik Spezialisierung - Geodateninfrastrukturen
+Geoinformatik_Spezialisierung_-_Geoinformationsdienste;Geoinformatik Spezialisierung - Geoinformationsdienste
+Geometric_Optimization_Lab;Geometric Optimization Lab
+Geschäftsprozesse_und_IT-Servicemanagement;Geschäftsprozesse und IT-Servicemanagement
+Grundlagen_der_Informatik_für_das_Lehramt;Grundlagen der Informatik für das Lehramt
+Grundlagen_der_Informatik_für_das_Lehramt_(nur_bbQ);Grundlagen der Informatik für das Lehramt (nur bbQ)
+Grundlagen_der_Mensch-Computer-Interaktion;Grundlagen der Mensch-Computer-Interaktion
+Grundlagen_der_Technischen_Informatik;Grundlagen der Technischen Informatik
+Grundlagen_der_Technischen_Informatik_(für_Lehramt);Grundlagen der Technischen Informatik (für Lehramt)
+Grundlagen_Informatik_im_Verkehrswesen;Grundlagen Informatik im Verkehrswesen
+Hardware_Modellierung_und_Simulation;Hardware Modellierung und Simulation
+Hauptseminar_Betriebssysteme_(Echtzeit-AG);Hauptseminar Betriebssysteme (Echtzeit-AG)
+Hauptseminar_Current_Topics_in_Software_Fault_Tolerance;Hauptseminar Current Topics in Software Fault Tolerance
+Highly_Parallel_Programming_of_GPUs;Highly Parallel Programming of GPUs
+High_Performance_Computing;High Performance Computing
+Höhere_numerische_Strömungsmechanik;Höhere numerische Strömungsmechanik
+Hydrological_Modeling;Hydrological Modeling
+Industrial_Cyber_Physical_Systems;Industrial Cyber Physical Systems
+Informatik-Anwendungen_in_der_Automation;Informatik-Anwendungen in der Automation
+Informatik_und_Gesellschaft_(nur_Lehramt);Informatik und Gesellschaft (nur Lehramt)
+Informationssysteme_im_Gesundheitswesen;Informationssysteme im Gesundheitswesen
+Informations-_und_Kodierungstheorie;Informations- und Kodierungstheorie
+Internet_Measurements;Internet Measurements
+Internet_of_Things_in_der_Automation;Internet of Things in der Automation
+Introduction_to_Computational_Aerodynamics;Introduction to Computational Aerodynamics
+Introduction_to_Computational_Aerodynamics_(CMS26);Introduction to Computational Aerodynamics (CMS26)
+Introduction_to_Mathematical_Biology_I:_Discrete_Models;Introduction to Mathematical Biology I: Discrete Models
+IoT_Communication;IoT Communication
+IT-Sicherheit_in_Cloud_Computing;IT-Sicherheit in Cloud Computing
+Knowledge-Based_Systems_Lab;Knowledge-Based Systems Lab
+Knowledge_Graphs;Knowledge Graphs
+Komplexpraktikum_Computergraphik_und_Visualisierung;Komplexpraktikum Computergraphik und Visualisierung
+Komplexpraktikum_Computer-und_robotergestützte_Chirurgie_;Komplexpraktikum Computer-und robotergestützte Chirurgie 
+Komplexpraktikum_Cyber_Physical_Systems;Komplexpraktikum Cyber Physical Systems
+Komplexpraktikum_Interaktive_Multimediale_Technologien;Komplexpraktikum Interaktive Multimediale Technologien
+Komplexpraktikum_Software_Fault_Tolerance;Komplexpraktikum Software Fault Tolerance
+Komplexpraktikum_Softwaretechnologie;Komplexpraktikum Softwaretechnologie
+KP_OUTPUT.DD_Workshop;KP OUTPUT.DD Workshop
+Kryptographie_und_Datenschutz_Lab;Kryptographie und Datenschutz Lab
+Kryptographie_und_Datenschutz_Lab_(für_Lehramt);Kryptographie und Datenschutz Lab (für Lehramt)
+Lerntechnologien-Projekt;Lerntechnologien-Projekt
+Lineare_Algebra_und_Analysis;Lineare Algebra und Analysis
+Machine_Learning_I;Machine Learning I
+Machine_Learning_I_20h_Project;Machine Learning I 20h Project
+Machine_Learning_in_Signal_Processing;Machine Learning in Signal Processing
+Mathematik_für_das_Lehramt_(nur_bbQ);Mathematik für das Lehramt (nur bbQ)
+Medieninformatik-Projekt_-_Multimedia-Technologie;Medieninformatik-Projekt - Multimedia-Technologie
+Mehrkörpersysteme_-_Praktikum;Mehrkörpersysteme - Praktikum
+Messtechnik;Messtechnik
+Mikrokernbasierte_Betriebssysteme;Mikrokernbasierte Betriebssysteme
+Mikrokernbasierte_Betriebssysteme_(DSE);Mikrokernbasierte Betriebssysteme (DSE)
+Modal_Logic;Modal Logic
+Model_Checking;Model Checking
+Model-Driven_Software_Development_in_Technical_Spaces;Model-Driven Software Development in Technical Spaces
+Modellierung_Cyber-Physischer_Systeme_Mini_Lab_(MLab0);Modellierung Cyber-Physischer Systeme Mini Lab (MLab0)
+Moleculare_Electronics;Moleculare Electronics
+Network_Simulation_(NwSim);Network Simulation (NwSim)
+Neuronale_Netze_für_die_Bildverarbeitung;Neuronale Netze für die Bildverarbeitung
+Numerical_methods_for_partial_differential_equations_-_Basic_concepts;Numerical methods for partial differential equations - Basic concepts
+Numerical_methods_in_hydrosciences;Numerical methods in hydrosciences
+Oberseminar_Photonische_Messtechnik;Oberseminar Photonische Messtechnik
+Open_Source_Software_and_Reproducible_Research_in_Networked_Systems_Modeling_(OSS);Open Source Software and Reproducible Research in Networked Systems Modeling (OSS)
+Performance_Analysis_of_Computing_Systems;Performance Analysis of Computing Systems
+Philosophy_and_Computing;Philosophy and Computing
+Philosophy_of_Science_and_good_Scientific_Practice;Philosophy of Science and good Scientific Practice
+Photogrammetrie_Grundlagen;Photogrammetrie Grundlagen
+Photogrammetrie_Spezialisierung;Photogrammetrie Spezialisierung
+Physics_Based_Graphics;Physics Based Graphics
+Prediction_and_Estimation_Techniques;Prediction and Estimation Techniques
+Principles_of_Biophysics;Principles of Biophysics
+Programmierparadigmen;Programmierparadigmen
+Programmierung;Programmierung
+Proof_Theory_and_Sequent_Systems;Proof Theory and Sequent Systems
+Proseminar_Datenbanken;Proseminar Datenbanken
+Proseminar_Rechnernetze;Proseminar Rechnernetze
+Psychologie_Grundlagen;Psychologie Grundlagen
+Psychologie_Spezialisierung;Psychologie Spezialisierung
+Real-Time_Systems;Real-Time Systems
+Recent_methods_of_photogrammetric_geodata_acquisition;Recent methods of photogrammetric geodata acquisition
+Requirements_Engineering_und_Testen;Requirements Engineering und Testen
+Research_Project_Computer_-_and_robot-assisted_Surgery;Research Project Computer - and robot-assisted Surgery
+RoboLab-Sessions;RoboLab-Sessions
+Scalable_Data_Engineering;Scalable Data Engineering
+Scalable_Data_Management;Scalable Data Management
+Schlüsselkompetenzen;Schlüsselkompetenzen
+Schulpraktische_Übungen_im_Fach_Informatik;Schulpraktische Übungen im Fach Informatik
+Selected_Topics_in_Complexity_Theory;Selected Topics in Complexity Theory
+Self-aware_Computing_Systems_and_Cobotics;Self-aware Computing Systems and Cobotics
+Seminar_Communicating_Autonomous_Vehicles_(HS);Seminar Communicating Autonomous Vehicles (HS)
+Seminar_Conversational_Artificial_Intelligence;Seminar Conversational Artificial Intelligence
+Seminar_Current_Topics_in_Compiler_Construction;Seminar Current Topics in Compiler Construction
+Seminar_Knowledge_Representation;Seminar Knowledge Representation
+Seminar_Sichere_digitale_Systeme;Seminar Sichere digitale Systeme
+Service_and_Cloud_Computing;Service and Cloud Computing
+Sicherheit;Sicherheit
+Sicherheit_in_Anwendungen;Sicherheit in Anwendungen
+Software_as_a_Business;Software as a Business
+Softwareaspekte_des_Industrial_Internet_of_Things;Softwareaspekte des Industrial Internet of Things
+Software_Engineering_for_Highly-Configurable_Software_Systems;Software Engineering for Highly-Configurable Software Systems
+Softwaretechnologie_II;Softwaretechnologie II
+Softwaretechnologie-Projekt;Softwaretechnologie-Projekt
+Sound_Design;Sound Design
+Spatial_Computing;Spatial Computing
+Stochastic_Modeling_and_Simulation;Stochastic Modeling and Simulation
+Strömungssimulation_auf_Höchstleistungsrechnern;Strömungssimulation auf Höchstleistungsrechnern
+Systemdynamik;Systemdynamik
+Systems_Engineering;Systems Engineering
+Systemsicherheitslabor;Systemsicherheitslabor
+Team_Assignment_Computational_Metrology;Team Assignment Computational Metrology
+Team_project_Computer-_and_robot-assisted_surgery;Team project Computer- and robot-assisted surgery
+Team_Project_Computer_Graphics_and_Visualization;Team Project Computer Graphics and Visualization
+Teamprojekt_Computational_Logic_(CMS);Teamprojekt Computational Logic (CMS)
+Teamprojekt_Roboter_lernen;Teamprojekt Roboter lernen
+Teamprojekt_Vertrauenswürdige_Künstliche_Intelligenz_(CMS);Teamprojekt Vertrauenswürdige Künstliche Intelligenz (CMS)
+Touch_Sensing_and_Processing;Touch Sensing and Processing
+User_Interface_Engineering;User Interface Engineering
+Vehicular_Networking_(C2X);Vehicular Networking (C2X)
+Vertiefende_Aspekte_der_Programmierung;Vertiefende Aspekte der Programmierung
+Webprogrammierung;Webprogrammierung
+Web-_und_Multimedia_Engineering;Web- und Multimedia Engineering
