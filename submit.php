@@ -75,12 +75,7 @@
 		}
 	}
 	
-	for ($i = 1; $i <= 4; $i++)
-	{
-		if ($i != 1 && isset($_POST['course'.$i.'checkbox']) == FALSE)
-			continue;
-		CreateCourseFile($i);
-	}
+	CreateCourseFile();
 	
 	$header = "Content-type: text/plain; charset=utf-8" ."\n";
 	$header .= 'From: noreply@ifsr.de' . "\n";
